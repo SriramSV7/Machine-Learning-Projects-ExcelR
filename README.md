@@ -1,15 +1,12 @@
-Machine Learning Portfolio
-👨‍💻 Sriram | Aspiring ML Engineer
-This repository contains my end-to-end Machine Learning projects and assignments from ExcelR.
+# Machine Learning Portfolio - ExcelR Solutions
+Welcome! This repository showcases my journey as a Junior Machine Learning Engineer. It contains practical implementations of data science concepts ranging from statistical analysis to advanced gradient boosting.
 
-🌟 Core Competencies
-Clustering: K-Means, Hierarchical (Expertise in Silhouette Score analysis).
+## 🚀 Key Highlights
+- **Clustering Specialist:** Mastered K-Means and Hierarchical clustering with a focus on Silhouette Scores.
+- **Advanced Modeling:** Proficient in XGBoost, LightGBM, and Random Forest.
+- **Problem Solver:** Hands-on experience with feature engineering and data cleaning for real-world datasets.
 
-Advanced Modeling: XGBoost, LightGBM, SVM, and Neural Networks.
-
-Data Science Lifecycle: EDA, Feature Engineering, Hypothesis Testing, and Model Deployment.
-
-📁 Project Highlights
-[Link to Clustering Folder]: Customer segmentation using PCA for dimensionality reduction.
-
-[Link to XGBoost Folder]: High-accuracy predictive modeling using gradient boosting.
+## 🛠️ Technical Stack
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn)
+- **Visualization:** Matplotlib, Seaborn
+- **Algorithms:** Regression, Decision Trees, SVM, Clustering, Ensemble Methods
